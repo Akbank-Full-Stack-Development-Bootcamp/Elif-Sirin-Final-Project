@@ -11,7 +11,7 @@ class Footer extends Component {
             
           </p>
           <p className="mb-1">
-          <a href="https://github.com/elifsirin42">Github Sitem</a>
+          <a href="https://github.com/elifsirin42">Github Hesabım</a>
           <br/> 
           ELİF ŞİRİN 
             
