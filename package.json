@@ -2,7 +2,7 @@
   "name": "bookalbum",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://elifsirin42.github.io/BookAlbum",
+  "homepage": "http://Akbank-Full-Stack-Development-Bootcamp.github.io/Elif-Sirin-Final-Project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
